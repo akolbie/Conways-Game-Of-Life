@@ -4,8 +4,8 @@ import pygame
 import sys
 from time import sleep
 
-SCREEN_WIDTH = 1000
-SCREEN_HEIGHT = 1000
+SCREEN_WIDTH = 400
+SCREEN_HEIGHT = 400
 
 
 class StateError(Exception):
